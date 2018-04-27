@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Incident github">218675104f3593005197c3818110c77c</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Incident githubs</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_176843_github_co_incident_github</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_176843_github_co.incident_github_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-27 01:31:12</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>698675104f3593005197c3818110c77e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident githubs</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="github connect" source="x_176843_github_co">a9a479d44ffd53005197c3818110c7a4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="github connect">a9a479d44ffd53005197c3818110c7a4</sys_scope>
+        <sys_update_name>sys_app_module_698675104f3593005197c3818110c77e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-27 01:31:12</sys_updated_on>
+        <timeline_page/>
+        <title>Incident githubs</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

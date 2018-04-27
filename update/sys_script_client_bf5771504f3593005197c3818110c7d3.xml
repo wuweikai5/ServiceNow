@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <messages/>
+        <name>CSshowMessage</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   g_form.addInfoMessage('This message is from Client Script');
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-27 01:37:27</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bf5771504f3593005197c3818110c7d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CSshowMessage</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="github connect" source="x_176843_github_co">a9a479d44ffd53005197c3818110c7a4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="github connect">a9a479d44ffd53005197c3818110c7a4</sys_scope>
+        <sys_update_name>sys_script_client_bf5771504f3593005197c3818110c7d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-27 01:37:27</sys_updated_on>
+        <table>x_176843_github_co_incident_github</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

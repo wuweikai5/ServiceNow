@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="incident" label="Incident github" max_length="40" name="x_176843_github_co_incident_github" type="collection"/>
+</database>
